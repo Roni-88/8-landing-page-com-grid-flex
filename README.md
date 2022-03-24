@@ -9,4 +9,6 @@ Não usamos nada de JavaScript.
 - HTML
 - CSS
 
-[<img src="./grideflex.gif" alt="Gif da tela inicial do projeto">](https://github.com/Roni-88)
+[<img src="./grideflex.gif" alt="Gif da tela inicial do projeto">](https://roni-88.github.io/8-landing-page-com-grid-flex)
+
+Clique na imagem para acessar o projeto!
